@@ -1,0 +1,16 @@
+ 
+  .links {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2rem;
+  }
+  
+  .link-item {
+    text-align: center;
+  }
+  
+  .icon {
+    width: 3em;
+    height: 2em;
+  }
+  
